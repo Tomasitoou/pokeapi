@@ -1,0 +1,99 @@
+/* Normal */
+body.normal {
+  background-color: #A8A77A;
+}
+
+/* Fighting */
+body.fighting {
+  background-color: #C22E28;
+}
+
+/* Flying */
+body.flying {
+  background-color: #A98FF3;
+}
+
+/* Poison */
+body.poison {
+  background-color: #A33EA1;
+}
+
+/* Ground */
+body.ground {
+  background-color: #E2BF65;
+}
+
+/* Rock */
+body.rock {
+  background-color: #B6A136;
+}
+
+/* Bug */
+body.bug {
+  background-color: #A6B91A;
+}
+
+/* Ghost */
+body.ghost {
+  background-color: #735797;
+}
+
+/* Steel */
+body.steel {
+  background-color: #B7B7CE;
+}
+
+/* Fire */
+body.fire {
+  background-color: #F05033;
+}
+
+/* Water */
+body.water {
+  background-color: #6390F0;
+}
+
+/* Grass */
+body.grass {
+  background-color: #7AC74C;
+}
+
+/* Electric */
+body.electric {
+  background-color: #F7D02C;
+}
+
+/* Psychic */
+body.psychic {
+  background-color: #F95587;
+}
+
+/* Ice */
+body.ice {
+  background-color: #96D9D6;
+}
+
+/* Dragon */
+body.dragon {
+  background-color: #6F35FC;
+}
+
+/* Dark */
+body.dark {
+  background-color: #705848;
+}
+
+/* Fairy */
+body.fairy {
+  background-color: #ffd9ef;
+}
+
+/* Stellar */
+body.stellar {
+  background-color: #B9B9D6;  /* You may choose a color if this is for special or unknown type */
+}
+
+/* Unknown */
+body.unknown {
+  background-color: #9A9A9A;
+}
