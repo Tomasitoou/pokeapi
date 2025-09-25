@@ -1,99 +1,99 @@
-/* Normal */
 body.normal {
-  background-color: #A8A77A;
+  background: linear-gradient(135deg, #a8a77a, #d8d8d8);
 }
 
-/* Fighting */
 body.fighting {
-  background-color: #C22E28;
+  background: linear-gradient(135deg, #c22e28, #f08030);
 }
 
-/* Flying */
 body.flying {
-  background-color: #A98FF3;
+  background: linear-gradient(135deg, #a98ff3, #c6e0f8);
 }
 
-/* Poison */
 body.poison {
-  background-color: #A33EA1;
+  background: linear-gradient(135deg, #a33ea1, #d080c7);
 }
 
-/* Ground */
 body.ground {
-  background-color: #E2BF65;
+  background: linear-gradient(135deg, #e2bf65, #dec177);
 }
 
-/* Rock */
 body.rock {
-  background-color: #B6A136;
+  background: linear-gradient(135deg, #b6a136, #d4c17d);
 }
 
-/* Bug */
 body.bug {
-  background-color: #A6B91A;
+  background: linear-gradient(135deg, #a6b91a, #cbe35d);
 }
 
-/* Ghost */
 body.ghost {
-  background-color: #735797;
+  background: linear-gradient(135deg, #735797, #a890f0);
 }
 
-/* Steel */
 body.steel {
-  background-color: #B7B7CE;
+  background: linear-gradient(135deg, #b7b7ce, #d8d8e7);
 }
 
-/* Fire */
 body.fire {
-  background-color: #F05033;
+  background: linear-gradient(135deg, #ee8130, #f5a95b);
 }
 
-/* Water */
 body.water {
-  background-color: #6390F0;
+  background: linear-gradient(135deg, #6390f0, #7ec8f7);
 }
 
-/* Grass */
 body.grass {
-  background-color: #7AC74C;
+  background: linear-gradient(135deg, #7ac74c, #a7db8d);
 }
 
-/* Electric */
 body.electric {
-  background-color: #F7D02C;
+  background: linear-gradient(135deg, #f7d02c, #f7e479);
 }
 
-/* Psychic */
 body.psychic {
-  background-color: #F95587;
+  background: linear-gradient(135deg, #f95587, #f28ab2);
 }
 
-/* Ice */
 body.ice {
-  background-color: #96D9D6;
+  background: linear-gradient(135deg, #96d9d6, #b3ecec);
 }
 
-/* Dragon */
 body.dragon {
-  background-color: #6F35FC;
+  background: linear-gradient(135deg, #6f35fc, #9f72f0);
 }
 
-/* Dark */
 body.dark {
-  background-color: #705848;
+  background: linear-gradient(135deg, #705746, #9b7f6d);
 }
 
-/* Fairy */
 body.fairy {
-  background-color: #ffd9ef;
+  background: linear-gradient(135deg, #d685ad, #f0b6d5);
 }
 
-/* Stellar */
 body.stellar {
-  background-color: #B9B9D6;  /* You may choose a color if this is for special or unknown type */
+  background: linear-gradient(135deg, #37e4da, #9befff);
 }
 
-/* Unknown */
 body.unknown {
-  background-color: #9A9A9A;
+  background: linear-gradient(135deg, #68a090, #a0d6c8);
+}
+
+h1{
+    color: rgb(11, 11, 11);
+}
+button {
+  background-color: #ffffff; /* color normal */
+  color: rgb(5, 5, 5);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9; /* cuando paso el mouse */
+}
+
+button:active {
+  background-color: #e74c3c; /* cuando lo presiono */
 }
