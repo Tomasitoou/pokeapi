@@ -22,4 +22,3 @@ async function pokemon(id){
 ${tipoPoke}
     </section>`
 }
-pokemon(40)
